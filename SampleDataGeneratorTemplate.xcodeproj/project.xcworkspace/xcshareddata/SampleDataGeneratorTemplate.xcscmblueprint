@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B8DE662B13CD3D75601009301351ABCDB079583C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D3ABDBAE7D56CFB86FBE3FC58C5C74BAC87D71C0" : 9223372036854775807,
+    "B8DE662B13CD3D75601009301351ABCDB079583C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2E659047-470D-48D1-B149-55038FF77902",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D3ABDBAE7D56CFB86FBE3FC58C5C74BAC87D71C0" : "CGALTest\/",
+    "B8DE662B13CD3D75601009301351ABCDB079583C" : "SampleDataGeneratorTemplate\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SampleDataGeneratorTemplate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SampleDataGeneratorTemplate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aeoleader\/SampleDataGeneratorTemplate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B8DE662B13CD3D75601009301351ABCDB079583C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aeoleader\/CGALTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3ABDBAE7D56CFB86FBE3FC58C5C74BAC87D71C0"
+    }
+  ]
+}
